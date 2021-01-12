@@ -1,0 +1,46 @@
+.container-small{
+    width: 1150px;
+    max-width: 80%;
+}
+.bg-color-carousel{
+    background-color: #fceae8;
+    border-radius: 20px;
+}
+.button-color{
+    background-color: #ff408c;
+    display: inline-block;
+}
+.price-color{
+    color: #ff408c;
+    font-weight: 700;
+}
+.bg-watch{
+    background-color: #ffa500;
+}
+.bg-bag{
+    background-color:#da70d6 ;
+}
+.bg-shoes{
+    background-color: #0000ff ;
+}
+.cetagories img{
+    height: 150px;
+    widows: 150px;;
+}
+.for-block{
+    display: inline-block;
+}
+.shoes-color{
+    color:#0000ff;
+}
+.shoes-border{
+    border: 0ch;
+    border-radius: 20px;
+}
+.shoes-footer{
+    border: none;
+    background-color: white;
+}
+.subscription-height{
+    height: 400px;
+}
